@@ -1,4 +1,4 @@
-# Nexus Finance - Sistema de Gestión Financiera Personal
+# Sistema de Gestión Financiera Personal
 
 <div align="center">
   <img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi" alt="FastAPI">
